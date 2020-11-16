@@ -1,6 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 13-11-2020
+# Updated: 16-11-2020
 # Title: Annoyance (My Personal Host File)
 
 
@@ -31,16 +31,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.vigo.ru
 0.0.0.0 api.wshareit.com
 0.0.0.0 api2.wshareit.com
+0.0.0.0 apps.mxplayer.in
 0.0.0.0 azar-web.com
 0.0.0.0 azarlive.com
 0.0.0.0 bigo.tv
 0.0.0.0 bigo.video
 0.0.0.0 blog.sharechat.com
 0.0.0.0 blog.ucweb.com
+0.0.0.0 blog.zoom.us
 0.0.0.0 browser.yandex.com
 0.0.0.0 business.9apps.com
 0.0.0.0 cdn2.shareitgames.com
 0.0.0.0 cf.hermes.wshareit.com
+0.0.0.0 chingari.io
 0.0.0.0 click.rummycircle.com
 0.0.0.0 cloneit.ushareit.com
 0.0.0.0 cloud.ucweb.com
@@ -59,6 +62,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 help.ucweb.com
 0.0.0.0 hindi.newsdogshare.com
 0.0.0.0 img-cdn.wshareit.com
+0.0.0.0 investors.zoom.us
 0.0.0.0 ir.yandex
 0.0.0.0 ladon.wshareit.com
 0.0.0.0 legal.yandex.com
@@ -67,8 +71,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.ucweb.com
 0.0.0.0 mail.yandex.com
 0.0.0.0 marketingplatform.google.com
+0.0.0.0 marketplace.zoom.us
+0.0.0.0 mitron.tv
 0.0.0.0 mobile.bigo.tv
+0.0.0.0 mojapp.in
 0.0.0.0 mp.newsdog.today
+0.0.0.0 mx.j2inter.com
+0.0.0.0 myjosh.in
 0.0.0.0 nae.rummycircle.com
 0.0.0.0 newsdog.today
 0.0.0.0 newsdogapp.com
@@ -79,14 +88,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 push-cdn.wshareit.com
 0.0.0.0 radar-api.wshareit.com
 0.0.0.0 research.yandex.com
+0.0.0.0 roposo.com
 0.0.0.0 rummycircle.com
+0.0.0.0 share.myjosh.in
 0.0.0.0 sharechat.com
 0.0.0.0 st.wshareit.com
 0.0.0.0 stage.rummycircle.com
+0.0.0.0 support.zoom.us
 0.0.0.0 sz-loc.ushareit.com
 0.0.0.0 tech.yandex.com
 0.0.0.0 translate.yandex.com
 0.0.0.0 trends.9apps.com
+0.0.0.0 u-dictionary.com
 0.0.0.0 uccricket.ucweb.com
 0.0.0.0 ucnews.in
 0.0.0.0 ucshare.net
@@ -105,15 +118,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.azarlive.com
 0.0.0.0 www.bigo.tv
 0.0.0.0 www.bigo.video
+0.0.0.0 www.chingari.io
 0.0.0.0 www.clubfactory.com
 0.0.0.0 www.cmcm.com
 0.0.0.0 www.helo-app.com
 0.0.0.0 www.ir.yandex
 0.0.0.0 www.kingsoft.com
 0.0.0.0 www.likee.com
+0.0.0.0 www.mitron.tv
+0.0.0.0 www.mojapp.in
 0.0.0.0 www.mpl.live
+0.0.0.0 www.myjosh.in
 0.0.0.0 www.newsdogapp.com
+0.0.0.0 www.roposo.com
 0.0.0.0 www.rummycircle.com
+0.0.0.0 www.u-dictionary.com
 0.0.0.0 www.ucnews.in
 0.0.0.0 www.ucshare.net
 0.0.0.0 www.ucweb.com
@@ -125,10 +144,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.yandex.com
 0.0.0.0 www.yandex.kz
 0.0.0.0 www.yandex.ru
+0.0.0.0 www.zoom.us
 0.0.0.0 yandex.by
 0.0.0.0 yandex.com
 0.0.0.0 yandex.com.tr
 0.0.0.0 yandex.kz
 0.0.0.0 yandex.ru
+0.0.0.0 zoom.us
 
 # ======= EOF ======= #
