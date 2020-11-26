@@ -11,7 +11,7 @@ A hosts file is a plain-text file used by all operating systems to map hostnames
 
 ### &#9755; Usage :
 
-Add following host files to **DNS Filters** or **Adaway** (rooted only) to block respective domains.
+Add hosts files to local VPN based **DNS Filters** like `Adaway`, `blokada` to block domains/sites.
 
 
 ---
@@ -28,7 +28,7 @@ Add following host files to **DNS Filters** or **Adaway** (rooted only) to block
 | Porn | Porn Sites + Pornaway's Porn Sites + Porn Ads | [link](https://raw.githubusercontent.com/mandarpatkar/hosts/main/porn.txt) |
 | Fingerprinting | Canvas Fingerprinting Pages + Canvas Font Fingerprinting + Audio Fingerprinting | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/fingerprinting.txt) |
 | NSA Blocklist | Primary NSA Blocklist (Spying Domains) | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/nsablocklist.txt) |
-| Annoyance (My Personal Hosts) | 9apps, 9games, azar, bigo, chingari , cheetah, clubfactory, helo, j2 interactive (mx media), josh, kingsoft, likee, mitron, moj, mpl live, newsdog, roposo, rummycircle, sharechat, shareit, u-dictionary, uc browser, uc cricket, uc mini, uc news, uc share, uc web, vigo, vmate, yandex, zoom meeting | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/annoyance.txt) |
+| Annoyance (My Personal Hosts) | 9apps, 9games, azar, bigo, chingari , cheetah, clubfactory, helo, j2 interactive (mx media), josh, kingsoft, likee, mitron, moj, mpl live, newsdog, roposo, rummycircle, sharechat, shareit, snack video, u-dictionary, uc browser, uc cricket, uc mini, uc news, uc share, uc web, vigo, vmate, yandex, zoom meeting | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/annoyance.txt) |
 | Integrated Hosts | Included All Above Hosts | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/hosts.txt) |
 
 **Note - Trackers Extreme, Fingerprinting, NSA Blocklist may break some pages. I have used it for while but didnt noticed any pages broken, So use these hosts carefully**
