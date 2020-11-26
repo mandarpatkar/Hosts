@@ -1,6 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 16-11-2020
+# Updated: 25-11-2020
 # Title: Annoyance (My Personal Host File)
 
 
@@ -53,6 +53,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 divide.wshareit.com
 0.0.0.0 dts.ushareit.com
 0.0.0.0 events.yandex.com
+0.0.0.0 explore.zoom.us
 0.0.0.0 feedback.uc.cn
 0.0.0.0 forum.ucweb.com
 0.0.0.0 game.91.com
@@ -92,6 +93,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rummycircle.com
 0.0.0.0 share.myjosh.in
 0.0.0.0 sharechat.com
+0.0.0.0 snack.video
 0.0.0.0 st.wshareit.com
 0.0.0.0 stage.rummycircle.com
 0.0.0.0 support.zoom.us
@@ -105,6 +107,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ucshare.net
 0.0.0.0 ucweb.com
 0.0.0.0 union.ucweb.com
+0.0.0.0 us02web.zoom.us
 0.0.0.0 vi.ucweb.com
 0.0.0.0 vigovideo.net
 0.0.0.0 vmate.com
@@ -112,6 +115,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vs-api.wshareit.com
 0.0.0.0 w.ushareit.com
 0.0.0.0 we.sharechat.com
+0.0.0.0 web.zoom.us
 0.0.0.0 www.9apps.com
 0.0.0.0 www.9game.com
 0.0.0.0 www.azar-web.com
@@ -132,6 +136,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.newsdogapp.com
 0.0.0.0 www.roposo.com
 0.0.0.0 www.rummycircle.com
+0.0.0.0 www.snack.video
 0.0.0.0 www.u-dictionary.com
 0.0.0.0 www.ucnews.in
 0.0.0.0 www.ucshare.net
