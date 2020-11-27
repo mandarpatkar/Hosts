@@ -1,7 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 25-11-2020
-# Title: Annoyance (My Personal Host File)
+# Title: Anti-Annoyance (My Personal Host File)
 
 
 # ======= LOCAL HOST ======= #

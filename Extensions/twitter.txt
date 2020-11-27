@@ -1,7 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 13-11-2020
-# Title: Twitter
+# Title: Twitter Blocklist
 
 
 # ======= LOCAL HOST ======= #

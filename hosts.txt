@@ -1,6 +1,5 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 16-11-2020
 # Title: Integrated Hosts (Included All Hosts Except Extensions)
 
 
@@ -20420,6 +20419,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 explodingbelly.com
 0.0.0.0 exploitedmilf.com
 0.0.0.0 explore.flickr.com
+0.0.0.0 explore.zoom.us
 0.0.0.0 explore2be.com
 0.0.0.0 exploremaine.gov
 0.0.0.0 exploresouthernhistory.com
@@ -63143,6 +63143,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sn3301-c.1drv.com
 0.0.0.0 sn3301-e.1drv.com
 0.0.0.0 sn3301-g.1drv.com
+0.0.0.0 snack.video
 0.0.0.0 snacks.stacken.kth.se
 0.0.0.0 snaffo.se
 0.0.0.0 snafu-solomon.blogspot.com
@@ -69726,6 +69727,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 us.internet.org
 0.0.0.0 us.myspace.com
 0.0.0.0 us.weibo.com
+0.0.0.0 us02web.zoom.us
 0.0.0.0 us1.badoo.com
 0.0.0.0 us41wisconsin.gov
 0.0.0.0 usa-stars.net
@@ -71659,6 +71661,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 web.skype.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web.wechat.com
+0.0.0.0 web.zoom.us
 0.0.0.0 web01.ticbeat.co
 0.0.0.0 web02.ticbeat.co
 0.0.0.0 web1.wechat.com
@@ -79904,6 +79907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.smutty.com
 0.0.0.0 www.smutv.com
 0.0.0.0 www.smutwebcams.com
+0.0.0.0 www.snack.video
 0.0.0.0 www.snafu.tfbnw.net
 0.0.0.0 www.snap.com
 0.0.0.0 www.snapchat.com

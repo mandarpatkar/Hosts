@@ -1,7 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Original: https://github.com/CHEF-KOCH/NSABlocklist
-# Updated: 13-11-2020
+# Original: https://github.com/CHEF-KOCH/NSABlocklist (Repo Closed)
 # Title: NSA BlockList
 
 

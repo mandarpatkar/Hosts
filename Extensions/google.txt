@@ -1,7 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 13-11-2020
-# Title: Google
+# Title: Google Blocklist
 
 
 # ======= LOCAL HOST ======= #

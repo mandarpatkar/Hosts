@@ -1,7 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 16-11-2020
-# Title: Porn
+# Title: Porn Blocklist
 
 
 # ======= LOCAL HOST ======= #

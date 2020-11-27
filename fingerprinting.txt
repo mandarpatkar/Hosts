@@ -1,8 +1,7 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
 # Original: https://github.com/Cauchon/NSABlocklist-pi-hole-edition/tree/master/Trackers
-# Updated: 13-11-2020
-# Title: Fingerprinting
+# Title: Anti-Fingerprinting
 
 
 # ======= LOCAL HOST ======= #

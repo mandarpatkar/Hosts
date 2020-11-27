@@ -1,7 +1,6 @@
 
 # Repo: https://github.com/mandarpatkar/Hosts
-# Updated: 13-11-2020
-# Title: Trackers Extreme (NSA Blocklist + WebRTC Trackers Included)
+# Title: Anti-Trackers Extreme (NSA Blocklist + WebRTC Trackers Included)
 
 
 # ======= LOCAL HOST ======= #

@@ -1,7 +1,7 @@
 
 # Hosts
 
-**Curated and well-maintained hosts files to block social media, trackers, porn ads &amp; sites.**
+**Curated and well-maintained hosts files to block social media, trackers, porn sites &amp; ads.**
 
 
 ### &#9755; What is host file?
@@ -21,17 +21,17 @@ Add hosts files to local VPN based **DNS Filters** like `Adaway`, `blokada` to b
 
 | Hosts | Contains | RAW Links |
 | --- | --- | --- |
-| Social | badoo, baidu, flickr, freebasics, google plus, imo call, internet.org, myspace, QQ, renren.com, skype, tinder, tumblr, viber, wechat, weibo, yy.com | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/social.txt) |
-| Social Extreme | facebook, instagram, twitter, snapchat, tiktok, pinterest | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/social-extreme.txt) |
-| Trackers | miui + microsoft windows trackers & reporting domains | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/trackers.txt) |
-| Trackers Extreme | NSA Blocklist + WebRTC Trackers | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/trackers-extreme.txt) |
-| Porn | Porn Sites + Pornaway's Porn Sites + Porn Ads | [link](https://raw.githubusercontent.com/mandarpatkar/hosts/main/porn.txt) |
-| Fingerprinting | Canvas Fingerprinting Pages + Canvas Font Fingerprinting + Audio Fingerprinting | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/fingerprinting.txt) |
+| Anti-Social | badoo, baidu, flickr, freebasics, google plus, imo call, internet.org, myspace, QQ, renren.com, skype, tinder, tumblr, viber, wechat, weibo, yy.com | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/social.txt) |
+| Anti-Social Extreme | facebook, instagram, twitter, snapchat, tiktok, pinterest | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/social-extreme.txt) |
+| Anti-Trackers | miui + microsoft windows trackers & reporting domains | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/trackers.txt) |
+| Anti-Trackers Extreme | NSA Blocklist + WebRTC Trackers | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/trackers-extreme.txt) |
+| Porn Block | Porn Sites + Pornaway's Porn Sites + Porn Ads | [link](https://raw.githubusercontent.com/mandarpatkar/hosts/main/porn.txt) |
+| Anti-Fingerprinting | Canvas Fingerprinting Pages + Canvas Font Fingerprinting + Audio Fingerprinting | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/fingerprinting.txt) |
 | NSA Blocklist | Primary NSA Blocklist (Spying Domains) | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/nsablocklist.txt) |
-| Annoyance (My Personal Hosts) | 9apps, 9games, azar, bigo, chingari , cheetah, clubfactory, helo, j2 interactive (mx media), josh, kingsoft, likee, mitron, moj, mpl live, newsdog, roposo, rummycircle, sharechat, shareit, snack video, u-dictionary, uc browser, uc cricket, uc mini, uc news, uc share, uc web, vigo, vmate, yandex, zoom meeting | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/annoyance.txt) |
+| Anti-Annoyance (My Personal Hosts) | 9apps, 9games, azar, bigo, chingari , cheetah, clubfactory, helo, j2 interactive (mx media), josh, kingsoft, likee, mitron, moj, mpl live, newsdog, roposo, rummycircle, sharechat, shareit, snack video, u-dictionary, uc browser, uc cricket, uc mini, uc news, uc share, uc web, vigo, vmate, yandex, zoom meeting | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/annoyance.txt) |
 | Integrated Hosts | Included All Above Hosts | [link](https://raw.githubusercontent.com/mandarpatkar/Hosts/main/hosts.txt) |
 
-**Note - Trackers Extreme, Fingerprinting, NSA Blocklist may break some pages. I have used it for while but didnt noticed any pages broken, So use these hosts carefully**
+*Note: Anti-Trackers Extreme, Anti-Fingerprinting, NSA Blocklist may break some pages.*
 
 
 ### &#9755; Extensions :
