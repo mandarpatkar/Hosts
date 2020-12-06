@@ -1,0 +1,45 @@
+
+# Repo: https://github.com/mandarpatkar/Hosts
+# Title: Tiktok Blocklist
+
+
+# ======= LOCAL HOST ======= #
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
+
+# ======= START ======= #
+
+0.0.0.0 ads.tiktok.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 bytedance.com
+0.0.0.0 careers.tiktok.com
+0.0.0.0 creatormarketplace.tiktok.com
+0.0.0.0 developers.tiktok.com
+0.0.0.0 newsroom.tiktok.com
+0.0.0.0 support.tiktok.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn-com.akamaized.net
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 www.bytedance.com
+0.0.0.0 www.tiktok.com
+
+# ======= EOF ======= #
