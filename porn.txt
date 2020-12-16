@@ -18627,6 +18627,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onlygoddesses.com
 0.0.0.0 onlyhardcorebabes.com
 0.0.0.0 onlyhdporn.com
+0.0.0.0 onlyindianporn.me
 0.0.0.0 onlyindianporn.tv
 0.0.0.0 onlyinholland.nl
 0.0.0.0 onlyloft.com
@@ -23299,6 +23300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sextube.world
 0.0.0.0 sextube100.net
 0.0.0.0 sextubebox.com
+0.0.0.0 sextubefilms.com
 0.0.0.0 sextubehd.xxx
 0.0.0.0 sextubes2u.com
 0.0.0.0 sextubevista.com
@@ -24436,6 +24438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 startuptuesday.com
 0.0.0.0 starvirgin.com
 0.0.0.0 stat.easydate.biz
+0.0.0.0 stat.onlyindianporn.me
 0.0.0.0 stat.upforitnetworks.com
 0.0.0.0 stathat.com
 0.0.0.0 static.ads.crakmedia.com
@@ -24562,6 +24565,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stop4sex.com
 0.0.0.0 stopitblockit.com
 0.0.0.0 store-rx.com
+0.0.0.0 store.onlyindianporn.me
 0.0.0.0 store.playboy.com
 0.0.0.0 store2.apple.ch.arconets.net
 0.0.0.0 storegame.ru
@@ -33402,6 +33406,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.onlyfatchiks.com
 0.0.0.0 www.onlyfuckvideos.com
 0.0.0.0 www.onlyhdporn.com
+0.0.0.0 www.onlyindianporn.me
 0.0.0.0 www.onlyindianporn.tv
 0.0.0.0 www.onlymaturexxx.com
 0.0.0.0 www.onlymomporn.com
@@ -34557,6 +34562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sextube.world
 0.0.0.0 www.sextube100.net
 0.0.0.0 www.sextubebox.com
+0.0.0.0 www.sextubefilms.com
 0.0.0.0 www.sextubehd.xxx
 0.0.0.0 www.sextubes2u.com
 0.0.0.0 www.sextubevista.com
